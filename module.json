@@ -1,4 +1,5 @@
 {
+  "id": "exalted-month-display",
   "name": "exalted-month-display",
   "title": "Exalted Month Display",
   "description": "Displays the current Exalted month with a seasonal icon and Exalted-style font. Includes navigation and persistent state.",
