@@ -1,0 +1,14 @@
+{
+  "name": "exalted-month-display",
+  "title": "Exalted Month Display",
+  "description": "Displays the current Exalted month with image and text, with persistence and a themed UI.",
+  "version": "1.0.0",
+  "author": "DocTentacles",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "scripts": ["scripts/exalted-months.js"],
+  "styles": ["styles/exalted-months.css"],
+  "manifest": "https://raw.githubusercontent.com/doctentacles/exalted-month-display/main/module.json",
+  "download": "https://github.com/doctentacles/exalted-month-display/archive/refs/heads/main.zip",
+  "url": "https://github.com/doctentacles/exalted-month-display"
+}
