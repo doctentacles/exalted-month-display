@@ -1,0 +1,48 @@
+#exalted-month-display {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.8);
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+  z-index: 100;
+  width: 220px;
+}
+
+#exalted-month-display img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#exalted-month-display .month-name {
+  color: white;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+#exalted-month-display .buttons {
+  margin-top: 6px;
+}
+
+#exalted-month-display button {
+  margin: 0 5px;
+  background: #444;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap');
+
+#exalted-month-display .month-name {
+  font-family: 'Cinzel Decorative', serif;
+  font-size: 1.2em;
+  color: #ffd700;
+  margin-top: 8px;
+  font-weight: 700;
+  text-shadow: 0 0 4px #000;
+}
