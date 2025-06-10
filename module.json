@@ -1,9 +1,9 @@
 {
   "name": "exalted-month-display",
   "title": "Exalted Month Display",
-  "description": "Displays the current Exalted month with image and text, with persistence and a themed UI.",
+  "description": "Displays the current Exalted month with a seasonal icon and Exalted-style font. Includes navigation and persistent state.",
   "version": "1.0.0",
-  "author": "DocTentacles",
+  "author": "doctentacles",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
   "scripts": ["scripts/exalted-months.js"],
